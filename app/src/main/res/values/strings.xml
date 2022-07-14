@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Giphy</string>
+    <string name="DataBank">Данные курса валюты на:</string>
+    <string name="DollarUSA">Доллар США</string>
+    <string name="Euro">Евро</string>
+    <string name="Uan">Юань</string>
+    <string name="Vibor">Выберете интересующую валюту</string>
+    <string name="ImDay">Картинка дня</string>
+
+</resources>
